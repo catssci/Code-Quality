@@ -1,0 +1,79 @@
+2024-08-28 11:07:20,091 - __main__ - INFO - Starting the application
+2024-08-28 11:07:20,091 - database - INFO - Starting database function
+2024-08-28 11:07:20,091 - database - INFO - Connected to the database
+2024-08-28 11:07:20,091 - database - INFO - Database function finished
+2024-08-28 11:07:20,091 - auth - WARNING - Authentication failed for user: test_user
+2024-08-28 11:07:20,091 - utils - DEBUG - Starting helper function
+2024-08-28 11:07:20,091 - utils - DEBUG - Helper function is performing a task
+2024-08-28 11:07:20,091 - utils - INFO - Helper function finished
+2024-08-28 11:07:20,091 - __main__ - INFO - Application finished
+2024-08-28 11:07:37,864 - __main__ - INFO - Starting the application
+2024-08-28 11:07:37,864 - database - INFO - Starting database function
+2024-08-28 11:07:37,864 - database - INFO - Connected to the database
+2024-08-28 11:07:37,864 - database - INFO - Database function finished
+2024-08-28 11:07:37,864 - auth - WARNING - Authentication failed for user: test_user
+2024-08-28 11:07:37,864 - utils - DEBUG - Starting helper function
+2024-08-28 11:07:37,864 - utils - DEBUG - Helper function is performing a task
+2024-08-28 11:07:37,865 - utils - INFO - Helper function finished
+2024-08-28 11:07:37,865 - __main__ - INFO - Application finished
+2024-08-28 11:23:34,227 - __main__ - INFO - Starting the application
+2024-08-28 11:23:34,227 - database - INFO - Starting database function
+2024-08-28 11:23:34,227 - database - INFO - Connected to the database
+2024-08-28 11:23:34,227 - database - INFO - Database function finished
+2024-08-28 11:23:34,227 - auth - WARNING - Authentication failed for user: test_user
+2024-08-28 11:23:34,227 - utils - DEBUG - Starting helper function
+2024-08-28 11:23:34,227 - utils - DEBUG - Helper function is performing a task
+2024-08-28 11:23:34,227 - utils - INFO - Helper function finished
+2024-08-28 11:23:34,227 - __main__ - INFO - Application finished
+2024-08-28 13:36:55,720 - __main__ - INFO - Starting the application
+2024-08-28 13:36:55,721 - database - INFO - Starting database function
+2024-08-28 13:36:55,721 - database - INFO - Connected to the database
+2024-08-28 13:36:55,721 - database - INFO - Database function finished
+2024-08-28 13:36:55,721 - auth - WARNING - Authentication failed for user: test_user
+2024-08-28 13:36:55,721 - utils - DEBUG - Starting helper function
+2024-08-28 13:36:55,721 - utils - DEBUG - Helper function is performing a task
+2024-08-28 13:36:55,721 - utils - INFO - Helper function finished
+2024-08-28 13:36:55,721 - __main__ - INFO - Application finished
+2024-08-28 13:37:20,284 - __main__ - INFO - Starting the application
+2024-08-28 13:37:20,284 - database - INFO - Starting database function
+2024-08-28 13:37:20,284 - database - INFO - Connected to the database
+2024-08-28 13:37:20,284 - database - INFO - Database function finished
+2024-08-28 13:37:20,284 - auth - WARNING - Authentication failed for user: test_user
+2024-08-28 13:37:20,284 - utils - DEBUG - Starting helper function
+2024-08-28 13:37:20,284 - utils - DEBUG - Helper function is performing a task
+2024-08-28 13:37:20,284 - utils - INFO - Helper function finished
+2024-08-28 13:37:20,284 - __main__ - INFO - Application finished
+2024-08-28 13:39:46,964 - __main__ - INFO - Starting the application
+2024-08-28 13:39:46,964 - database - INFO - Starting database function
+2024-08-28 13:39:46,964 - database - INFO - Connected to the database
+2024-08-28 13:39:46,964 - database - INFO - Database function finished
+2024-08-28 13:39:46,964 - auth - WARNING - Authentication failed for user: test_user
+2024-08-28 13:39:46,964 - utils - DEBUG - Starting helper function
+2024-08-28 13:39:46,964 - utils - DEBUG - Helper function is performing a task
+2024-08-28 13:39:46,964 - utils - INFO - Helper function finished
+2024-08-28 13:39:46,964 - __main__ - INFO - Application finished
+2024-08-28 13:40:10,191 - __main__ - INFO - Starting the application
+2024-08-28 13:40:10,191 - database - INFO - Starting database function
+2024-08-28 13:40:10,191 - database - INFO - Connected to the database
+2024-08-28 13:40:10,191 - database - INFO - Database function finished
+2024-08-28 13:40:10,192 - auth - WARNING - Authentication failed for user: test_user
+2024-08-28 13:40:10,192 - utils - DEBUG - Starting helper function
+2024-08-28 13:40:10,192 - utils - DEBUG - Helper function is performing a task
+2024-08-28 13:40:10,192 - utils - INFO - Helper function finished
+2024-08-28 13:40:10,192 - __main__ - INFO - Application finished
+2024-08-28 13:41:19,242 - __main__ - INFO - Starting the application
+2024-08-28 13:41:19,242 - database - INFO - Starting database function
+2024-08-28 13:41:19,242 - database - INFO - Connected to the database
+2024-08-28 13:41:19,242 - database - INFO - Database function finished
+2024-08-28 13:41:19,242 - utils - DEBUG - Starting helper function
+2024-08-28 13:41:19,242 - utils - DEBUG - Helper function is performing a task
+2024-08-28 13:41:19,242 - utils - INFO - Helper function finished
+2024-08-28 13:41:19,242 - __main__ - INFO - Application finished
+2024-08-28 13:41:27,608 - __main__ - INFO - Starting the application
+2024-08-28 13:41:27,608 - database - INFO - Starting database function
+2024-08-28 13:41:27,608 - database - INFO - Connected to the database
+2024-08-28 13:41:27,609 - database - INFO - Database function finished
+2024-08-28 13:41:27,609 - utils - DEBUG - Starting helper function
+2024-08-28 13:41:27,609 - utils - DEBUG - Helper function is performing a task
+2024-08-28 13:41:27,609 - utils - INFO - Helper function finished
+2024-08-28 13:41:27,609 - __main__ - INFO - Application finished
